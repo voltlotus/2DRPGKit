@@ -60,9 +60,9 @@ EditorBuildSettings:
     path: Assets/2D RPG Kit/Scenes/Demo/Cave 5.unity
     guid: ededbe0166520534e9d6b1313ffa4b02
   - enabled: 1
-    path: Assets/Tutorial Maps/Tutorial House 1.unity
+    path: Assets/2D RPG Kit/Scenes/Tutorial Maps/Tutorial House 1.unity
     guid: 9374435c0df60db43b958f707edffb71
   - enabled: 1
-    path: Assets/Tutorial Maps/Tutorial Town.unity
+    path: Assets/2D RPG Kit/Scenes/Tutorial Maps/Tutorial Town.unity
     guid: b8fcb41ce1e923b44b0feeae5abb32cd
   m_configObjects: {}
